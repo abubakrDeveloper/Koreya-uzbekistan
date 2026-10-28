@@ -1,0 +1,6 @@
+{
+  "name": "Uzbek Association in Korea",
+  "description": "Official portal of the Uzbek Association in Korea (Koreyadagi O‘zbekistonliklar Uyushmasi) providing community support, legal aid, documentation, and business cooperation across Korea.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
